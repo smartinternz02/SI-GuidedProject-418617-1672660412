@@ -44,9 +44,9 @@ public class UserIp {
     public void setCountry(String country) {
         this.country = country;
     }
-    public String getLocale(String dte)
+    public String getLocale()
     {
-    	return 	dte;
+    	return 	Locale;
     }
     public String getOrigin() {
         return origin;
