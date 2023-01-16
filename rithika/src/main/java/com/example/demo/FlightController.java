@@ -26,11 +26,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 
-import com.example.FlightAware.model.User;
-import com.example.FlightAware.model.UserIp;
-import com.example.FlightAware.repository.UserRepo;
+import com.example.User;
+import com.example.UserIp;
+import com.example.UserRepo;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.example.FlightAware.repository.FlightRepo;
+import com.example.FlightRepo;
 
 
 @Controller
