@@ -15,14 +15,3 @@ Project Demo:
 ![A4](https://user-images.githubusercontent.com/94275810/212618277-8bef7248-c4c6-4bb3-8952-74ab46280418.jpg)
 ![A5](https://user-images.githubusercontent.com/94275810/212618429-d99819a8-0d32-43ea-99d4-c4e162649f66.jpg)
  
-Features
-
-View all flights
-View all flights by route
-View all flights by date
-View all currencies
-View all countries
-
-
-Prerequisites
-Java 17 JDK Maven
